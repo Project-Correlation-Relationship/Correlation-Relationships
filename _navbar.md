@@ -1,0 +1,3 @@
+- [Home](/)
+- [Linked Data 1](/linked-data-1.md)
+- [Linked Data 2](/linked-data-2.md)
