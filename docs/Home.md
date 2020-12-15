@@ -17,4 +17,4 @@ The Office for National Statistics (ONS) has a useful
 
 ![Search page overview](../_media/landing-page.png)
 
-![Correlation between different entities](../_media/Correlation%20between%20different%20entities.png)
+![Correlation between different entities](https://github.com/Project-Correlation-Relationship/Correlation-Relationships/blob/main/docs/_media/Correlation%20between%20different%20entities.png)
