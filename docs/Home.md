@@ -27,7 +27,7 @@ We would be very grateful for any input or comments that you may have but specif
 5.	What other correlation relationships could be of interest to you?
 6.	What other correlation relationship data models do you know of that we could possibly research?
 
-<a href="http://www.google.com/",'_blank' //>
+<a href="http://www.google.com/">
     <button>Feedback form</button>
 </a>
 
