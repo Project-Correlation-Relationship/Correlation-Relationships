@@ -29,3 +29,4 @@ We would be very grateful for any input or comments that you may have but specif
 
 
 ![Correlation between different entities](https://github.com/Project-Correlation-Relationship/Correlation-Relationships/blob/main/docs/_media/Correlation%20between%20different%20entities.png)
+<img src="https://github.com/Project-Correlation-Relationship/Correlation-Relationships/blob/main/docs/_media/Correlation%20between%20different%20entities.png" width="800" />
