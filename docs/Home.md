@@ -27,14 +27,8 @@ We would be very grateful for any input or comments that you may have but specif
 5.	What other correlation relationships could be of interest to you?
 6.	What other correlation relationship data models do you know of that we could possibly research?
 
-<a href="http://www.google.com/">
+<a href="http://www.google.com/",'_blank' //>
     <button>Feedback form</button>
-</a>
-
-<a window.open(
-  'https://google.com',
-  '_blank' // <- This is what makes it open in a new window.
-);
 </a>
 
 ![Correlation between different entities](https://github.com/Project-Correlation-Relationship/Correlation-Relationships/blob/main/docs/_media/Correlation%20between%20different%20entities.png)
