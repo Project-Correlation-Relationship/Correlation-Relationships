@@ -32,7 +32,9 @@ We would be very grateful for any input or comments that you may have but specif
 </a>
 
 
-![Correlation between different entities](https://github.com/Project-Correlation-Relationship/Correlation-Relationships/blob/main/docs/_media/Correlation%20between%20different%20entities.png)
+
+![Correlation between different entities](/_media/Correlations.png)
+
 <img src="https://github.com/Project-Correlation-Relationship/Correlation-Relationships/blob/main/docs/_media/Correlation%20between%20different%20entities.png" width="400" />
 
 We developed a correlation relationship data model which was tested against three correlation relationships. These are listed below:
