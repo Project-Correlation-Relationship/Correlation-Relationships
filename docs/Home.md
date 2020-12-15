@@ -33,7 +33,7 @@ We would be very grateful for any input or comments that you may have but specif
 
 
 
-![Correlation between different entities](/_media/Correlations.png, width="400")
+![Correlation between different entities](/_media/Correlations.png)
 
 
 We developed a correlation relationship data model which was tested against three correlation relationships. These are listed below:
