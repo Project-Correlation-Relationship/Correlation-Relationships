@@ -31,6 +31,7 @@ We would be very grateful for any input or comments that you may have but specif
     <button>Feedback form</button>
 </a>
 
+
 ![Correlation between different entities](https://github.com/Project-Correlation-Relationship/Correlation-Relationships/blob/main/docs/_media/Correlation%20between%20different%20entities.png)
 <img src="https://github.com/Project-Correlation-Relationship/Correlation-Relationships/blob/main/docs/_media/Correlation%20between%20different%20entities.png" width="400" />
 
@@ -51,3 +52,7 @@ We developed a correlation relationship data model which was tested against thre
 - Probabilistic record linkage is widely used across the government. For example, Ministry of Justice [2], ONS [3] and Home Office [4], where the similarity between related datasets, typically records on individuals, is derived to create a Master Data using sophisticated algorithms in open source. (e.g. See [2]) and commercial off the shelf software such as IBM Big Match and Informatica R (Dan Rickman, Home Office Data Scientist, personal communication).
 - The main emphasis of the probabilistic record linkage is to find the similarities and deduplicate records. However, at the time of writing this project didn’t find any evidence of any dedicated focus on the capture of the metadata behind probabilistic record links, in the elaborate and transparent manner as proposed by this project. However, it is reasonable to speculate that it would of course be possible to do so easily when needed. 
 
+[1] [link](https://voaratinglists.blob.core.windows.net/html/rlidata.htm) (accessed 22/11/2020)
+[2] [link](https://www.iso.org/standard/64242.html) (accessed 22/11/2020)
+[3] [link](https://www.agi.org.uk/agi-groups/standards-committee/bs7666-guidelines) (accessed 22/11/2020)
+[4] [link](https://www.ordnancesurvey.co.uk/business-government/products/addressbase-premium) (accessed 22/11/2020)
