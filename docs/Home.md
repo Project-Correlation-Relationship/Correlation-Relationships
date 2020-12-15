@@ -32,3 +32,21 @@ We would be very grateful for any input or comments that you may have but specif
 
 ![Correlation between different entities](https://github.com/Project-Correlation-Relationship/Correlation-Relationships/blob/main/docs/_media/Correlation%20between%20different%20entities.png)
 <img src="https://github.com/Project-Correlation-Relationship/Correlation-Relationships/blob/main/docs/_media/Correlation%20between%20different%20entities.png" width="400" />
+
+We developed a correlation relationship data model which was tested against three correlation relationships. These are listed below:
+- OS MasterMap Topographic Area Polygon and HM Land Registry Inspire Polygon
+- Different forest representations used by Defra and OS
+- VOA Property Address and OS AddressBase Property Address
+### What are our goals?
+- To verify that the Correlation Relationship data model effectively represents the correlation between the datasets;
+- Does the Correlation Relationship data model support the FAIR (link) principles:
+    - Findability – is it easy to find
+    - Accessibility – was it easy to access
+    - Interoperability – does the data model metadata support integration. 
+    - Reusable –  ….
+- Identify areas of improvement (talk about improving data governance, ethical issues in sharing, TQV).
+## Related Literature
+- The motivation underlying the interest in correlation relationship is similar to those of probabilistic data linkage techniques used for Master Data Management. 
+- Probabilistic record linkage is widely used across the government. For example, Ministry of Justice [2], ONS [3] and Home Office [4], where the similarity between related datasets, typically records on individuals, is derived to create a Master Data using sophisticated algorithms in open source. (e.g. See [2]) and commercial off the shelf software such as IBM Big Match and Informatica R (Dan Rickman, Home Office Data Scientist, personal communication).
+- The main emphasis of the probabilistic record linkage is to find the similarities and deduplicate records. However, at the time of writing this project didn’t find any evidence of any dedicated focus on the capture of the metadata behind probabilistic record links, in the elaborate and transparent manner as proposed by this project. However, it is reasonable to speculate that it would of course be possible to do so easily when needed. 
+
