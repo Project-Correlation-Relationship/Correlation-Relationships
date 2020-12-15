@@ -16,4 +16,4 @@ The Office for National Statistics (ONS) has a useful
 [Guide to Experimental Statistics](https://www.ons.gov.uk/methodology/methodologytopicsandstatisticalconcepts/guidetoexperimentalstatistics).
 
 
-![Correlation between different entities](../_media/Correlation%20between%20different%20entities.png)
+[Correlation between different entities](../_media/Correlation%20between%20different%20entities.png)
