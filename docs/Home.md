@@ -15,5 +15,6 @@ Note that there is no guarantee as yet on whether participating partner bodies w
 The Office for National Statistics (ONS) has a useful 
 [Guide to Experimental Statistics](https://www.ons.gov.uk/methodology/methodologytopicsandstatisticalconcepts/guidetoexperimentalstatistics).
 
+![Search page overview](../_media/landing-page.png)
 
-[Correlation between different entities](../_media/Correlation%20between%20different%20entities.png)
+![Correlation between different entities](../_media/Correlation%20between%20different%20entities.png)
