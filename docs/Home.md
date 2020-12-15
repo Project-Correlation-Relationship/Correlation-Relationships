@@ -53,6 +53,6 @@ We developed a correlation relationship data model which was tested against thre
 - The main emphasis of the probabilistic record linkage is to find the similarities and deduplicate records. However, at the time of writing this project didn’t find any evidence of any dedicated focus on the capture of the metadata behind probabilistic record links, in the elaborate and transparent manner as proposed by this project. However, it is reasonable to speculate that it would of course be possible to do so easily when needed. 
 
 [1] [link](https://voaratinglists.blob.core.windows.net/html/rlidata.htm) (accessed 22/11/2020)
-[2] [link](https://www.iso.org/standard/64242.html) (accessed 22/11/2020)
-[3] [link](https://www.agi.org.uk/agi-groups/standards-committee/bs7666-guidelines) (accessed 22/11/2020)
-[4] [link](https://www.ordnancesurvey.co.uk/business-government/products/addressbase-premium) (accessed 22/11/2020)
+<br>[2] [link](https://www.iso.org/standard/64242.html) (accessed 22/11/2020)
+<br>[3] [link](https://www.agi.org.uk/agi-groups/standards-committee/bs7666-guidelines) (accessed 22/11/2020)
+<br>[4] [link](https://www.ordnancesurvey.co.uk/business-government/products/addressbase-premium) (accessed 22/11/2020)
