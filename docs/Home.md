@@ -16,8 +16,7 @@ The Office for National Statistics (ONS) has a useful
 [Guide to Experimental Statistics](https://www.ons.gov.uk/methodology/methodologytopicsandstatisticalconcepts/guidetoexperimentalstatistics).
 
 
-
-### How you can help
+## How you can help
 
 We would be very grateful for any input or comments that you may have but specifically would welcome your thoughts on the following questions:
 
@@ -37,7 +36,7 @@ We developed a correlation relationship data model which was tested against thre
 - OS MasterMap Topographic Area Polygon and HM Land Registry Inspire Polygon
 - Different forest representations used by Defra and OS
 - VOA Property Address and OS AddressBase Property Address
-### What are our goals?
+## What are our goals?
 - To verify that the Correlation Relationship data model effectively represents the correlation between the datasets;
 - Does the Correlation Relationship data model support the FAIR (link) principles:
     - Findability – is it easy to find
