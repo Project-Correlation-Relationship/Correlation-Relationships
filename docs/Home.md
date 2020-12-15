@@ -28,7 +28,7 @@ We would be very grateful for any input or comments that you may have but specif
 6.	What other correlation relationship data models do you know of that we could possibly research?
 
 <a href="http://www.google.com/">
-    <button>Click me</button>
+    <button>Feedback form</button>
 </a>
 
 ![Correlation between different entities](https://github.com/Project-Correlation-Relationship/Correlation-Relationships/blob/main/docs/_media/Correlation%20between%20different%20entities.png)
