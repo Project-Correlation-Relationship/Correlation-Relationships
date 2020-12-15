@@ -15,6 +15,8 @@ Note that there is no guarantee as yet on whether participating partner bodies w
 The Office for National Statistics (ONS) has a useful 
 [Guide to Experimental Statistics](https://www.ons.gov.uk/methodology/methodologytopicsandstatisticalconcepts/guidetoexperimentalstatistics).
 
+[button url="http://www.google.com"]
+
 ### How you can help
 
 We would be very grateful for any input or comments that you may have but specifically would welcome your thoughts on the following questions:
@@ -29,4 +31,4 @@ We would be very grateful for any input or comments that you may have but specif
 
 
 ![Correlation between different entities](https://github.com/Project-Correlation-Relationship/Correlation-Relationships/blob/main/docs/_media/Correlation%20between%20different%20entities.png)
-<img src="https://github.com/Project-Correlation-Relationship/Correlation-Relationships/blob/main/docs/_media/Correlation%20between%20different%20entities.png" width="800" />
+<img src="https://github.com/Project-Correlation-Relationship/Correlation-Relationships/blob/main/docs/_media/Correlation%20between%20different%20entities.png" width="400" />
