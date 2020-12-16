@@ -3,7 +3,7 @@
 ## OS MasterMap Topographic Area and HM Land Registry INSPIRE Polygon
 
 __Linked IDs:__ HMLR INSPIRE ID and OSMM Topographic Area TOID 
-__Correlation Operator:__ Spatial Overlap
+<br> __Correlation Operator:__ Spatial Overlap
 
  <a href="http://www.google.com/">
     <button>Downlaod</button>
