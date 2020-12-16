@@ -33,9 +33,9 @@ Figure 2 shows a Land Registry boundary line (red) and an OSMM Topographic Area 
 Taking into account the potential error in captured location, the following steps are taken:
 1.	All features are buffered outward by this error,
 2.	the intersection between these buffered HM Land Registry and OS features is then tested.
-  - If the intersection is true, then a confidence metric of 2 is applied and HMLR and OS features are then buffered inward by the error quantity and intersected again.
-  - If features intersect, then a confidence metric of 1 is applied. 
-  - Duplicate relationships, where both confidence metrics of 1 and 2 are found, are then filtered, retaining the confidence metric of 1. This will ensure that overlaps which are within capture tolerance and hence may not be real, are given a lower confidence metric than intersections between the main bodies of features.
+    - If the intersection is true, then a confidence metric of 2 is applied and HMLR and OS features are then buffered inward by the error quantity and intersected again.
+    - If features intersect, then a confidence metric of 1 is applied. 
+    - Duplicate relationships, where both confidence metrics of 1 and 2 are found, are then filtered, retaining the confidence metric of 1. This will ensure that overlaps which are within capture tolerance and hence may not be real, are given a lower confidence metric than intersections between the main bodies of features.
 
 
 __Original text:
