@@ -44,7 +44,7 @@ VOA UARN and AddressBase Premium UPRN
 1. Textual: For each UARN-UPRN pair in ABP, the fields of the VOA Address are matched (using a Fuzzy String Comparer) with the fields of the UPRN Address after ensuring that the addressing fields in both addresses are comparable e.g. letter cases, field types Address comparison that have a similarity ratio of greater than 90% (i.e. only 10% mismatch) in all field matches are correlated and assigned a metric of 1. Remaining confidence metrics are as per the following table based on the mismatches
 
     Number of fields mismatched | Metric
-    ------------ | -------------
+    ------------ | :-------------:
     <=10% Mismatched Local Authority | 7
     Town mismatch | 6
     Street mismatch | 5
