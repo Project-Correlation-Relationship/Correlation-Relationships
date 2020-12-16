@@ -5,7 +5,9 @@
 __Linked IDs:__ HMLR INSPIRE ID and OSMM Topographic Area TOID 
 __Correlation Operator:__ Spatial Overlap
 
-Download (button)
+ <a href="http://www.google.com/">
+    <button>Downlaod</button>
+</a>
 
 ### Description
 Land Registry freehold polygons represent land ownership, whereas Ordnance Survey MasterMap (OSMM) topographic areas generally represent the physical features of the landscape.
@@ -36,8 +38,8 @@ Taking into account the potential error in captured location, the following step
   - Duplicate relationships, where both confidence metrics of 1 and 2 are found, are then filtered, retaining the confidence metric of 1. This will ensure that overlaps which are within capture tolerance and hence may not be real, are given a lower confidence metric than intersections between the main bodies of features.
 
 
-___Original text:
-Taking into account the potential error in captured location, all features are buffered outward by this error. The intersection between these buffered HMLR and OS features is then tested. If the intersection is true, then a confidence metric of 2 is applied. HMLR and OS features are then buffered inward by the error quantity and intersected again. If features intersect, then a confidence metric of 1 is applied. Duplicate relationships, where both confidence metrics of 1 and 2 are found, are then filtered, retaining the confidence metric of 1.
+__Original text:
+Taking into account the potential error in captured location, all features are buffered outward by this error. The intersection between these buffered HMLR and OS features is then tested. If the intersection is true, then a confidence metric of 2 is applied. HMLR and OS features are then buffered inward by the error quantity and intersected again. If features intersect, then a confidence metric of 1 is applied. Duplicate relationships, where both confidence metrics of 1 and 2 are found, are then filtered, retaining the confidence metric of 1.__
 
 This will ensure that overlaps which are within capture tolerance and hence may not be real, are given a lower confidence metric than intersections between the main bodies of features.
 
@@ -50,12 +52,10 @@ If a homeowner approaches an estate agent with a view to selling their property,
 
 Alternatively, once the Inspire ID has been found, other OSMM Topographic Area features linked to the same Inspire ID can be looked up to give an instant view of garden area, outbuildings, main building footprint area, building height and other attributes of the property.
 
-### Correlation Lookup Volume
+## Correlation Lookup Volume
 There are approximately 265 million OSMM topographic areas in England and Wales. There are approximately 23xmillion HM Land Registry INSPIRE polygons. Therefore, the correlation contains up to 5.9x1015 relationships.
 
  <a href="http://www.google.com/">
     <button>Downlaod</button>
 </a>
 
- 
-Some content, [links](https://google.com) etc.
