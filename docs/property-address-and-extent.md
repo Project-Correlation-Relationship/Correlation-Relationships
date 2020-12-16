@@ -49,8 +49,8 @@ VOA UARN and AddressBase Premium UPRN
     Town mismatch | 6
     Street mismatch | 5
     Na | 4
-       | 3
-       | 2
+    -| 3
+    -| 2
     No mismatch | 1
 
 
