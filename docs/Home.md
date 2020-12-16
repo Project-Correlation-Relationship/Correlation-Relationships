@@ -35,6 +35,9 @@ Please complete our survey
 
 We encourage feedback so please contact us via this form:
 
+<a href="http://www.google.com/">
+    <button>Feedback form</button>
+</a>
 
 ![Correlation between different entities](/_media/Correlations.png)
 
