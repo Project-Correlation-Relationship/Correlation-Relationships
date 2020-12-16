@@ -49,7 +49,7 @@ If a homeowner approaches an estate agent with a view to selling their property,
 Alternatively, once the Inspire ID has been found, other OSMM Topographic Area features linked to the same Inspire ID can be looked up to give an instant view of garden area, outbuildings, main building footprint area, building height and other attributes of the property.
 
 ## Correlation Lookup Volume
-There are approximately 265 million OSMM topographic areas in England and Wales. There are approximately 23xmillion HM Land Registry INSPIRE polygons. Therefore, the correlation contains up to 5.9x10<sup>15</sup> relationships.
+There are approximately 265 million OSMM topographic areas in England and Wales. There are approximately 23 million HM Land Registry INSPIRE polygons. Therefore, the correlation contains up to 5.9x10<sup>15</sup> relationships.
 
  <a href="http://www.google.com/">
     <button>Downlaod</button>
