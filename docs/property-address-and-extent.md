@@ -24,12 +24,11 @@ It is therefore possible to only make an approximate link between a UPRN (linked
 
 ![Correlation between different entities](/_media/Relationships.png)
 
-Figure x: 1-Many and Many-Many relationships between VOA Properties (Solid fill boxes) and BLPU (Boxes with hollow fill with red outline).
+__Figure 1:__ 1-Many and Many-Many relationships between VOA Properties (Solid fill boxes) and BLPU (Boxes with hollow fill with red outline).
 
 ### Example
 
-
-Figure x: 1-1 relationships between two VOA Properties and BLPU (Boxes with blue outline).
+Figure 1: 1-1 relationships between two VOA Properties and BLPU (Boxes with blue outline).
 
 ### Linked IDs
 VOA UARN and AddressBase Premium UPRN 
