@@ -15,6 +15,8 @@ src="https://c.statcounter.com/12447157/0/91ac9dc3/1/" alt="hit
 counter"></div></noscript>
 <!-- End of Statcounter Code -->
 
+![Banner](/docs/img/banner.jpg)
+
 # Introduction
 
 This page has been created to give you the opportunity to download and engage with the correlations we've created thus far. We value your feedback so please answer the questions below and share any thoughts or suggestions you may have.
