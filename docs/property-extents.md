@@ -13,9 +13,6 @@ Land Registry freehold polygons represent land ownership, whereas Ordnance Surve
 
 Easily identifying the physical features owned by a particular party is of value to a wide range of users, such as utility companies and estate agents. Often ownership boundaries do not perfectly align with physical features, either because of differences in their capture processes, or because no feature actually exists on the ground.   
 
-### Sample output
-Embed something interactive
-
 ### Examples
 Figure 1 shows the overlap between OSMM Topographic Area Polygons (green lines) and HM Land Registry INSPIRE Polygons (red lines) in an area in Leicester. Image includes Copyrighted from Ordnance Survey and Aerial Photography of Great Britain.
 
