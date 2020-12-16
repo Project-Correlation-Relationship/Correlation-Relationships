@@ -15,7 +15,7 @@ src="https://c.statcounter.com/12447157/0/91ac9dc3/1/" alt="hit
 counter"></div></noscript>
 <!-- End of Statcounter Code -->
 
-![Banner](/docs/img/banner.jpg)
+![Banner](/docs/_media/banner.jpg)
 
 # Introduction
 
