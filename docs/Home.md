@@ -1,3 +1,20 @@
+<!-- Default Statcounter code for Correlation Relationship
+https://project-correlation-relationship.github.io/Correlation-Relationships/#/Home
+-->
+<script type="text/javascript">
+var sc_project=12447157;
+var sc_invisible=1;
+var sc_security="91ac9dc3";
+var sc_https=1;
+var sc_remove_link=1;
+</script>
+<script type="text/javascript"
+src="https://www.statcounter.com/counter/counter.js" async></script>
+<noscript><div class="statcounter"><img class="statcounter"
+src="https://c.statcounter.com/12447157/0/91ac9dc3/1/" alt="hit
+counter"></div></noscript>
+<!-- End of Statcounter Code -->
+
 # Introduction
 
 This page has been created to give you the opportunity to download and engage with the correlations we've created thus far. We value your feedback so please answer the questions below and share any thoughts or suggestions you may have.
