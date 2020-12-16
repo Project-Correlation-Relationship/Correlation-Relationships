@@ -1,13 +1,15 @@
 # Property Address and Extent
 
-__Linked IDs:__ VOA Non-Domestic Property Address and OS AddressBase Premium Property Address
+__Datasets:__ XXX
+<br> __Linked IDs:__ VOA Non-Domestic Property Address and OS AddressBase Premium Property Address
+<br> __Correlation Operator:__ Textual, Spatial Comparison
 
-<a href="http://www.google.com/">
+ <a href="http://www.google.com/">
     <button>Download</button>
 </a>
 
-
 ## Description
+
 Under the Local Government Finance Act, the VOA publishes a list of the non-domestic rates for properties and the constituent parts of the properties.[[1]](https://voaratinglists.blob.core.windows.net/html/rlidata.htm)
 
 In the VOA data model, a property is defined as the geographical area or point feature that is under the legal control of a tax payer (NB: control rights are not same as ownership rights). The geographical area of a property (say a shopping mall) could include areas occupied by built structures (e.g. main warehouse and shop) but also adjacent open spaces (e.g. car parks, bike racks).
@@ -26,20 +28,13 @@ It is therefore possible to only make an approximate link between a UPRN (linked
 
 __Figure 1:__ 1-Many and Many-Many relationships between VOA Properties (Solid fill boxes) and BLPU (Boxes with hollow fill with red outline).
 
-### Example
+## Example
 
 Figure 1: 1-1 relationships between two VOA Properties and BLPU (Boxes with blue outline).
 
-### Linked IDs
-VOA UARN and AddressBase Premium UPRN 
-
-### Correlation Operators
-1. Textual 
-2. Spatial Comparison 
-
 ![Correlation between different entities](/_media/Operators.png)
 
-## Inclusion Criteria, Correlation Methodology and Confidence Metric
+## Correlation Methodology and Confidence Metric
 1. Textual: For each UARN-UPRN pair in ABP, the fields of the VOA Address are matched (using a Fuzzy String Comparer) with the fields of the UPRN Address after ensuring that the addressing fields in both addresses are comparable e.g. letter cases, field types Address comparison that have a similarity ratio of greater than 90% (i.e. only 10% mismatch) in all field matches are correlated and assigned a metric of 1. Remaining confidence metrics are as per the following table based on the mismatches
 
     Number of fields mismatched | Metric
@@ -58,7 +53,7 @@ Practical Applications
 
 ## Correlation Lookup Volume
 
-## Download Location
+## Practical Applications
 
 
 
