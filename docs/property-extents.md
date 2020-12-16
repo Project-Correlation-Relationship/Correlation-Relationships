@@ -21,10 +21,10 @@ Embed something interactive
 Figure 1 shows the overlap between OSMM Topographic Area Polygons (green lines) and HM Land Registry INSPIRE Polygons (red lines) in an area in Leicester. Image includes Copyrighted from Ordnance Survey and Aerial Photography of Great Britain.
 
 ![Overlaps](/_media/Overlap.png)
-Figure 1: Overlap between OSMM Topographic Area Polygons and HM Land Registry INSPIRE Polygons
+<br>__Figure 1:__ Overlap between OSMM Topographic Area Polygons and HM Land Registry INSPIRE Polygons
 
 ![Overlaps](/_media/Overlap2.png)
-Figure 2: ....
+<br>__Figure 2:__ ....
  
 Figure 2 shows a Land Registry boundary line (red) and an OSMM Topographic Area boundary (dark grey). The two lines diverge. It is questionable that this overlap exists in reality.
  
