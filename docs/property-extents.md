@@ -8,12 +8,12 @@ __Datasets:__ MasterMap Topographic Area and HM Land Registry INSPIRE Polygon
     <button>Download</button>
 </a>
 
-### Description
+## Description
 Land Registry freehold polygons represent land ownership, whereas Ordnance Survey MasterMap (OSMM) topographic areas generally represent the physical features of the landscape.
 
 Easily identifying the physical features owned by a particular party is of value to a wide range of users, such as utility companies and estate agents. Often ownership boundaries do not perfectly align with physical features, either because of differences in their capture processes, or because no feature actually exists on the ground.   
 
-### Examples
+## Examples
 Figure 1 shows the overlap between OSMM Topographic Area Polygons (green lines) and HM Land Registry INSPIRE Polygons (red lines) in an area in Leicester. Image includes Copyrighted from Ordnance Survey and Aerial Photography of Great Britain.
 
 ![Overlaps](/_media/Overlap.png)
@@ -25,7 +25,7 @@ Figure 1 shows the overlap between OSMM Topographic Area Polygons (green lines) 
 Figure 2 shows a Land Registry boundary line (red) and an OSMM Topographic Area boundary (dark grey). The two lines diverge. It is questionable that this overlap exists in reality.
  
  
-### Correlation Methodology and Confidence Metric
+## Correlation Methodology and Confidence Metric
 Taking into account the potential error in captured location, the following steps are taken:
 1.	All features are buffered outward by this error,
 2.	the intersection between these buffered HM Land Registry and OS features is then tested.
@@ -54,6 +54,4 @@ A gas utility company may wish to replace the pipes in an area. Plotting the pat
 If a homeowner approaches an estate agent with a view to selling their property, an application could be built to link the property address to the main building TOID (using OS Address Base Premium). From there, the intersecting the HM Land Registry Inspire ID can be quickly found from the linked identifiers table. The owner of the parcel can then be identified and compared to the proposed seller to verify they are one and the same. This will help mitigate the risk of fraudulent activities.
 
 Alternatively, once the Inspire ID has been found, other OSMM Topographic Area features linked to the same Inspire ID can be looked up to give an instant view of garden area, outbuildings, main building footprint area, building height and other attributes of the property.
-
-
 
