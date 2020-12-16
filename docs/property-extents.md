@@ -6,7 +6,7 @@ __Linked IDs:__ HMLR INSPIRE ID and OSMM Topographic Area TOID
 <br> __Correlation Operator:__ Spatial Overlap
 
  <a href="http://www.google.com/">
-    <button>Downlaod</button>
+    <button>Download</button>
 </a>
 
 ### Description
