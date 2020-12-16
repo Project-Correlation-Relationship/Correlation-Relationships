@@ -20,17 +20,20 @@ The Office for National Statistics (ONS) has a useful
 
 We would be very grateful for any input or comments that you may have but specifically would welcome your thoughts on the following questions:
 
-1.	Is anything missing from this data model?
-2.	Is there anything that would need to be changed in order for your organisation to consider adopting?
-3.	Which aspects do you consider the most valuable to your organisation and users?
-4.	Do you have any suggestions for how we can maximise future engagement with this work?
-5.	What other correlation relationships could be of interest to you?
-6.	What other correlation relationship data models do you know of that we could possibly research?
+1. Is anything missing from this data model?
+2. Is there anything that would need to be changed in order for your organisation to consider adopting?
+3. Which aspects do you consider the most valuable to your organisation and users?
+4. Do you have any suggestions for how we can maximise future engagement with this work?
+5. What other correlation relationships could be of interest to you?
+6. What other correlation relationship data models do you know of that we could possibly research?
 
-<a href="http://www.google.com/">
+Please complete our survey
+
+<a href="https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.surveymonkey.com%2Fr%2FHKYWL8S&data=04%7C01%7Csanjay.rana%40voa.gov.uk%7Cb3ef4b4875c84b81a1a808d8a1abc93a%7Cac52f73cfd1a4a9a8e7a4a248f3139e1%7C0%7C0%7C637437106469859177%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=p2mooEkMV5Bqp42%2BDEkf%2FGhopOAPjzopbm928aUbwys%3D&reserved=0">
     <button>Feedback form</button>
 </a>
 
+We encourage feedback so please contact us via this form:
 
 
 ![Correlation between different entities](/_media/Correlations.png)
