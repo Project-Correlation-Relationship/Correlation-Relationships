@@ -39,6 +39,13 @@ Taking into account the potential error in captured location, all features are b
 
 This will ensure that overlaps which are within capture tolerance and hence may not be real, are given a lower confidence metric than intersections between the main bodies of features.
 
+## Correlation Lookup Volume
+There are approximately 265 million OSMM topographic areas in England and Wales. There are approximately 23 million HM Land Registry INSPIRE polygons. Therefore, the correlation contains up to 5.9x10<sup>15</sup> relationships.
+
+ <a href="http://www.google.com/">
+    <button>Downlaod</button>
+</a>
+
 ## Practical Applications
 ### Utilities
 A gas utility company may wish to replace the pipes in an area. Plotting the paths of these pipes against OSMM will identify the polygons intersected along with their identifiers (TOIDs). It would then be a simple process to query the linked identifiers to find the Inspire polygons related to these OSMM features and from there the landowners who would need to be contacted.
@@ -48,10 +55,5 @@ If a homeowner approaches an estate agent with a view to selling their property,
 
 Alternatively, once the Inspire ID has been found, other OSMM Topographic Area features linked to the same Inspire ID can be looked up to give an instant view of garden area, outbuildings, main building footprint area, building height and other attributes of the property.
 
-## Correlation Lookup Volume
-There are approximately 265 million OSMM topographic areas in England and Wales. There are approximately 23 million HM Land Registry INSPIRE polygons. Therefore, the correlation contains up to 5.9x10<sup>15</sup> relationships.
 
- <a href="http://www.google.com/">
-    <button>Downlaod</button>
-</a>
 
