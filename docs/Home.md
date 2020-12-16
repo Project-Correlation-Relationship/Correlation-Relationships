@@ -56,8 +56,18 @@ We encourage feedback so please contact us via this form:
     <button>Feedback form</button>
 </a>
 
-![Correlation between different entities](/_media/Correlations.png)
+## So, what are Correlation Relationships and why are they so useful?
 
+A “Correlation Relationship/Link” is defined as the linking of representations of similar, but different spatial entities. Different organisations routinely store data that contain different spatial entities with similar identifiers.
+For example, an address of a property exists in records in the HM Land Registry, VOA and OS databases. Each of these records represent different information associated with an address, which are:
+- HM Land Registry records would show a general extent of Title Plan. 
+- VOA shows extent of ownership space. 
+- OS shows the precise extent of the built structure. 
+
+Figure 1 below is an illustrative example.
+
+![Correlation between different entities](/_media/Correlations.png)
+__Figure 1:__ Correlations between different (but similar) entities
 
 We developed a correlation relationship data model which was tested against three correlation relationships. These are listed below:
 - OS MasterMap Topographic Area Polygon and HM Land Registry Inspire Polygon
@@ -75,9 +85,3 @@ We developed a correlation relationship data model which was tested against thre
 - The motivation underlying the interest in correlation relationship is similar to those of probabilistic data linkage techniques used for Master Data Management. 
 - Probabilistic record linkage is widely used across the government. For example, Ministry of Justice [2], ONS [3] and Home Office [4], where the similarity between related datasets, typically records on individuals, is derived to create a Master Data using sophisticated algorithms in open source. (e.g. See [2]) and commercial off the shelf software such as IBM Big Match and Informatica R (Dan Rickman, Home Office Data Scientist, personal communication).
 - The main emphasis of the probabilistic record linkage is to find the similarities and deduplicate records. However, at the time of writing this project didn’t find any evidence of any dedicated focus on the capture of the metadata behind probabilistic record links, in the elaborate and transparent manner as proposed by this project. However, it is reasonable to speculate that it would of course be possible to do so easily when needed. 
-
-### References
-[1] [VOA rating list downloads](https://voaratinglists.blob.core.windows.net/html/rlidata.htm) (accessed 22/11/2020)
-<br>[2] [ISO 19160-4:2017](https://www.iso.org/standard/64242.html) (accessed 22/11/2020)
-<br>[3] [BS7666 Guidelines](https://www.agi.org.uk/agi-groups/standards-committee/bs7666-guidelines) (accessed 22/11/2020)
-<br>[4] [AddressBase Premium](https://www.ordnancesurvey.co.uk/business-government/products/addressbase-premium) (accessed 22/11/2020)
