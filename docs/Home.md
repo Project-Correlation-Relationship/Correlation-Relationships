@@ -67,7 +67,7 @@ For example, an address of a property exists in records in the HM Land Registry,
 Figure 1 below is an illustrative example.
 
 ![Correlation between different entities](/_media/Correlations.png)
-__Figure 1:__ Correlations between different (but similar) entities
+<br>__Figure 1:__ Correlations between different (but similar) entities
 
 We developed a correlation relationship data model which was tested against three correlation relationships. These are listed below:
 - OS MasterMap Topographic Area Polygon and HM Land Registry Inspire Polygon
