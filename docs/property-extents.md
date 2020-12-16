@@ -1,8 +1,7 @@
 # Property Extents
 
-## OS MasterMap Topographic Area and HM Land Registry INSPIRE Polygon
-
-__Linked IDs:__ HMLR INSPIRE ID and OSMM Topographic Area TOID 
+__Datasets:__ MasterMap Topographic Area and HM Land Registry INSPIRE Polygon
+<br> __Linked IDs:__ TOID and INSPIRE ID
 <br> __Correlation Operator:__ Spatial Overlap
 
  <a href="http://www.google.com/">
