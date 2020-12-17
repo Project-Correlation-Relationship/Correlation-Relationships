@@ -15,7 +15,11 @@ src="https://c.statcounter.com/12447157/0/91ac9dc3/1/" alt="hit
 counter"></div></noscript>
 <!-- End of Statcounter Code -->
 
+
+<p align="center">
 ![Banner](/_media/Banner2.png)
+</p>
+
 
 # Correlation Sharing Portal
 
