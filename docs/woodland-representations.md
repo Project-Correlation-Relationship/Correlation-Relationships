@@ -13,9 +13,9 @@ The NFI woodland map covers all forest and woodland area over 0.5 hectare with a
 <br>__Category__
 1. Woodland – areas greater than 0.5 hectares that represents the extent of mapped woodland.
 2. Non woodland – open areas greater than 0.5 hectares completely surrounded by woodland.
-<br>
-<br>__IFT Woodland areas classification__ 
-<br>1. Conifer - Coniferous woodland often occurs as large plantations with trees in regular rows and the stand edges may be regular and sharply defined. Some broadleaved trees may also be present but greater than 80% of the area will consist of conifers.
+
+<br>__IFT Woodland areas classification__
+1. Conifer - Coniferous woodland often occurs as large plantations with trees in regular rows and the stand edges may be regular and sharply defined. Some broadleaved trees may also be present but greater than 80% of the area will consist of conifers.
 2. Broadleaved - The canopy of broadleaved woodland is generally more uneven than that of coniferous woodland being made up of rounded crowns but with variations according to species, age, height, and season. Boundaries with adjacent internal polygons are generally less clearly defined than with conifers and naturally occurring stands may grade into adjacent ones with no sharp division. Some coniferous trees may be present but greater than 80% of the area will consist of broadleaved trees. 
 3. Mixed Predominantly conifer - The interpretation of Mixed woodland can be very difficult as it exhibits intermediate characteristics between Conifer and Broadleaved woodland. There can be several types of mixed woodland. A plantation of alternate rows of conifer and broadleaves may produce a 'striped' appearance. You may see conifer and broadleaves planted in blocks, and there may be general intersperse woodland. The proportion of the Conifer will be more than 50% of the area and less than 80%. 
 4. Mixed Predominantly broadleaved - The interpretation of Mixed woodland can be very difficult as it exhibits intermediate characteristics between Conifer and Broadleaved woodland. There can be several types of mixed woodland. A plantation of alternate rows of conifer and broadleaves may produce a 'striped' appearance. You may see conifer and broadleaves planted in blocks, and there may be general intersperse woodland. The proportion of the Broadleaves will be more than 50% of the area and less than 80%. 
@@ -31,7 +31,7 @@ The NFI woodland map covers all forest and woodland area over 0.5 hectare with a
 14. Assumed woodland - The supplied grant scheme and FC new planting polygons have been attributed as 'assumed woodland' as these areas have not been checked against the latest images and will be monitored in future updates and either updated to reflect forest type or removed from the dataset. 
 15. Failed - Areas that show evidence of ground prep over several years and still exhibit no evidence of tress, based on the latest available imagery. 
 16. Windblow - Areas of woodland where the trees have been uprooting or broken by the wind and which remain uncleared and not regenerated based on the latest available imagery.
-<br>
+
 <br>__Non woodland areas classification__
 1. Open water - Normally labelled within OSMM, areas of even colour. 
 2. Grass - A predominantly grassy area - may be agricultural or not. 
@@ -45,8 +45,8 @@ The NFI woodland map covers all forest and woodland area over 0.5 hectare with a
 10. Windfarm - Possible shadow evidence of turbines, normally in groups. 
 11. Other vegetation - Not covered by the above, e.g. Gorse, Rhododendron, Bracken, Heather etc. 
 <br>
-<br>__Notes:__
-a. Species such as Gorse and Rhododendron are not regarded as woodland and have therefore been excluded. 
+__Notes:__
+<br>a. Species such as Gorse and Rhododendron are not regarded as woodland and have therefore been excluded. 
 b. Orchards are not regarded as woodland but have been mapped for carbon accounting purposes. Details can be provided on request. 
 c. Interpreted Forest Types are only used to classify polygons in the NFI digital woodland map. IFTs are useful when using the map without the sample data, and for smaller geographic areas where the sample data would be inappropriate. However, for larger geographic areas data on forest types collected in the field is considered to be more accurate, and hence is used for reporting purposes.
 
