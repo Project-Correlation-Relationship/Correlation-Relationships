@@ -8,7 +8,7 @@ The datasets used to produce the correlation relationships are:
 
 ### Woodland Inventory
 
-The NFI woodland map covers all forest and woodland area over 0.5 hectare with a minimum of 20% canopy cover (or the potential to achieve it) and a minimum width of 20 metres, including areas of new planting, clearfell, windblow and restocked areas.The woodland map excludes all 'tarmac' roads, rivers and powerlines where the gap in the woodland is greater than 20 meters wide. The woodland map is continually updated on an annual basis. The changes in the canopy cover have been identified on remote sensing imagery taken during spring/summer 2017 or colour aerial orthophotographic imagery available at the time of the assessment. Additionally, new planting information from grant schemes and the FE sub-compartment database for the financial year 2017/2018 have been added to the woodland map.The changes in the woodland boundaries use the Ordnance Survey MasterMap (OSMM) as a reference where appropriated. OSMM is the most up to date large-scale digital map of GB providing a seamless database for 1:1250, 1:2500 and 1:10000 survey data.All woodland (both urban and rural, regardless of ownership) which is 0.5 hectare or greater in extent, with the exception of Assumed woodland or Low density areas that can be 0.1 hectare or greater in extend. Woodland less than 0.5 hectare in extent will not be described within the dataset but will be included in a separate sample survey of small woodland and tree features.
+The NFI woodland map covers all forest and woodland area over 0.5 hectare with a minimum of 20% canopy cover (or the potential to achieve it) and a minimum width of 20 metres, including areas of new planting, clearfell, windblow and restocked areas. The woodland map excludes all 'tarmac' roads, rivers and powerlines where the gap in the woodland is greater than 20 meters wide. 
 __Category__
 1. Woodland – areas greater than 0.5 hectares that represents the extent of mapped woodland
 2. Non woodland – open areas greater than 0.5 hectares completely surrounded by woodland 
@@ -31,7 +31,7 @@ __IFT Woodland areas classification__
 16. Windblow - Areas of woodland where the trees have been uprooting or broken by the wind and which remain uncleared and not regenerated based on the latest available imagery.
 
 __Non woodland areas classification__
-1.Open water - Normally labelled within OSMM, areas of even colour. 
+1. Open water - Normally labelled within OSMM, areas of even colour. 
 2. Grass - A predominantly grassy area - may be agricultural or not. 
 3. Agricultural land - May contain a cereal crop or pasture. 
 4. Urban/Building - Buildings within woodland areas, may include gardens surrounding the building. 
