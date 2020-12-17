@@ -101,7 +101,7 @@ __Datasets:__ Woodland Inventory and Ancient Woodland
 <br> __Correlation Operator:__ XXX
 
 
-![Woodland Inventory and Ancient Woodland](/_media/Sampledata2.png)
+![Woodland Inventory and Ancient Woodland](/_media/Sampledata2.PNG)
 
 [View correlation](https://google.com)
 
