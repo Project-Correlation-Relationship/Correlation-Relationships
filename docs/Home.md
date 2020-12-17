@@ -15,9 +15,6 @@ src="https://c.statcounter.com/12447157/0/91ac9dc3/1/" alt="hit
 counter"></div></noscript>
 <!-- End of Statcounter Code -->
 
-<p align="center">
-<img src="/_media/Banner2.png">
-</p>
 
 ![Banner](/_media/Banner2.png)
 
