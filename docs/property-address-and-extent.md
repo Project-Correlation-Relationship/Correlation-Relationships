@@ -30,9 +30,10 @@ __Figure 1:__ 1-Many and Many-Many relationships between VOA Properties (Solid f
 
 ## Example
 
-Figure 1: 1-1 relationships between two VOA Properties and BLPU (Boxes with blue outline).
+Figure 2 below is the 1-1 relationships between two VOA Properties and BLPU Proxies i.e. OSMM Topo Area Polygons (Boxes with blue outline). Differences in the VOA area and BLPU area indicate how area linked to a UPRN is only partially correlated to the UARN area. The image on the right shows how OSMM hardware store (red). Example is only shown here for demonstration purposes for some real cases.
 
-![Correlation between different entities](/_media/Operators.png)
+![Correlation between different entities](/_media/Operators2.png)
+<br>__Figure 2:__ 1-1 relationships between two VOA Properties and BLPU Proxies
 
 ## Correlation Methodology and Confidence Metric
 1. Textual: For each UARN-UPRN pair in ABP, the fields of the VOA Address are matched (using a Fuzzy String Comparer) with the fields of the UPRN Address after ensuring that the addressing fields in both addresses are comparable e.g. letter cases, field types Address comparison that have a similarity ratio of greater than 90% (i.e. only 10% mismatch) in all field matches are correlated and assigned a metric of 1. Remaining confidence metrics are as per the following table based on the mismatches
