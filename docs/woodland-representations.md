@@ -115,7 +115,7 @@ __Datasets:__ Woodland Grants and Ancient Woodland
 <br> __Linked IDs:__ XXX
 <br> __Correlation Operator:__ XXX
 
-![Woodland Grants and Ancient Woodland](/_media/Sampledata3.png)
+![Woodland Grants and Ancient Woodland](/_media/Sampledata3.PNG)
 
 [View correlation](https://google.com)
 
