@@ -82,7 +82,7 @@ __Datasets:__ Woodland Inventory and Woodland Grants
 
 
 
-![Woodland Inventory and Woodland Grants](/_media/Sampledata11.png) 
+![Woodland Inventory and Woodland Grants](/_media/Sampledata11.PNG) 
 
 
 
