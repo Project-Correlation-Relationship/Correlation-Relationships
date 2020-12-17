@@ -15,7 +15,7 @@ src="https://c.statcounter.com/12447157/0/91ac9dc3/1/" alt="hit
 counter"></div></noscript>
 <!-- End of Statcounter Code -->
 
-![Banner](/_media/banner.jpg)
+![Banner](/_media/Sampledata1.png)
 
 # Correlation Sharing Portal
 
