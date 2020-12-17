@@ -16,9 +16,7 @@ counter"></div></noscript>
 <!-- End of Statcounter Code -->
 
 
-<p align="center">
 ![Banner](/_media/Banner2.png)
-</p>
 
 
 # Correlation Sharing Portal
