@@ -15,9 +15,11 @@ src="https://c.statcounter.com/12447157/0/91ac9dc3/1/" alt="hit
 counter"></div></noscript>
 <!-- End of Statcounter Code -->
 
-![Banner](/_media/banner.jpg)
+
 
 # Introduction
+
+![Banner](/_media/banner.jpg)
 
 This page has been created to give you the opportunity to download and engage with the correlations we've created thus far. We value your feedback so please answer the questions below and share any thoughts or suggestions you may have.
 The purpose of the correlation relationships published is to demonstrate the importance of recognising correlation relationship data model for practical applications, and thus propose it to data producers, software vendors, and researchers to consider it for adoption.
