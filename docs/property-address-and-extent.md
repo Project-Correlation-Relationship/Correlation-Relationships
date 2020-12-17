@@ -30,7 +30,7 @@ __Figure 1:__ 1-Many and Many-Many relationships between VOA Properties (Solid f
 
 ## Example
 
-Figure 2 below is the 1-1 relationships between two VOA Properties and BLPU Proxies i.e. OSMM Topo Area Polygons (Boxes with blue outline). Differences in the VOA area and BLPU area indicate how area linked to a UPRN is only partially correlated to the UARN area. The image on the right shows how OSMM hardware store (red). Example is only shown here for demonstration purposes for some real cases.
+Figure 2 below shows the 1-1 relationships between two VOA Properties and BLPU Proxies i.e. OSMM Topo Area Polygons (Boxes with blue outline). Differences in the VOA area and BLPU area indicate how area linked to a UPRN is only partially correlated to the UARN area. The image on the right shows how OSMM hardware store (red). Example is only shown here for demonstration purposes for some real cases.
 
 ![Correlation between different entities](/_media/Operators2.png)
 <br>__Figure 2:__ 1-1 relationships between two VOA Properties and BLPU Proxies
