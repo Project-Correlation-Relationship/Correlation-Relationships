@@ -26,7 +26,31 @@ Figure 2 shows a Land Registry boundary line (red) and an OSMM Topographic Area 
  
  
 ## Correlation Methodology and Confidence Metric
-Taking into account the potential error in captured location, all features are buffered outward by this error. The intersection between these buffered HMLR and OS features is then tested. If the intersection is true, then a confidence metric of 2 is applied. HMLR and OS features are then buffered inward by the error quantity and intersected again. If features intersect, then a confidence metric of 1 is applied. Duplicate relationships, where both confidence metrics of 1 and 2 are found, are then filtered, retaining the confidence metric of 1.
+
+Spatial relation based on overlap, excluding touching boundaries
+
+![Overlap excluding touching boundaries](/_media/method1.PNG)
+
+### Stage 1
+![Stage 2](/_media/method2.PNG)
+- Take into account the potential error in captured location.
+- Buffer all features OUT by this error quantity.
+- The intersection between these buffered LR and OS features is then tested.
+- If the intersection is true, then a confidence metric of 3 is applied.
+
+### Stage 2
+![Stage 2](/_media/method3.PNG)
+- Ignore potential error in captured location.
+- Leave all features in their captured positions.
+- The intersection between these features is tested.
+- If the intersection is true, then a confidence metric of 2 is applied.
+
+## Stage 3
+![Stage3](/_media/method4.PNG)
+- Again, take into account the potential error in captured location.
+- Buffer all features IN by this error quantity.
+- The intersection between these buffered LR and OS features is then tested.
+- If the intersection is true, then a confidence metric of 1 is applied.
 
 This will ensure that overlaps which are within capture tolerance and hence may not be real, are given a lower confidence metric than intersections between the main bodies of features.
 
