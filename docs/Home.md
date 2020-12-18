@@ -57,7 +57,7 @@ Please complete our survey
 We encourage feedback so please contact us via this form:
 
 
-[Feedback form](../docs/form.md)
+[Feedback form](/form.md)
 
 ## So, what are Correlation Relationships and why are they so useful?
 
