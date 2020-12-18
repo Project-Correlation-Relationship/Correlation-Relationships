@@ -59,7 +59,8 @@ We encourage feedback so please contact us via this form:
 <a href="http://www.google.com/">
     <button>Feedback form</button>
 </a>
-[Feedback form](/docs/form.md)
+
+[Feedback form](../docs/form.md)
 
 ## So, what are Correlation Relationships and why are they so useful?
 
