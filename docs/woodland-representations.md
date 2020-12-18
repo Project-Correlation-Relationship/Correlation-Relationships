@@ -8,13 +8,15 @@ The datasets used to produce the correlation relationships are:
 
 ### Woodland Inventory
 
-The NFI woodland map covers all forest and woodland area over 0.5 hectare with a minimum of 20% canopy cover (or the potential to achieve it) and a minimum width of 20 metres, including areas of new planting, clearfell, windblow and restocked areas. The woodland map excludes all 'tarmac' roads, rivers and powerlines where the gap in the woodland is greater than 20 meters wide. 
+The National Forest Inventory (NFI) woodland map covers all forest and woodland area over 0.5 hectare with a minimum of 20% canopy cover (or the potential to achieve it) and a minimum width of 20 metres, including areas of new planting, clearfell, windblow and restocked areas. The woodland map excludes all 'tarmac' roads, rivers and powerlines where the gap in the woodland is greater than 20 meters wide. 
 <br>
 <br>__Category__
 1. Woodland – areas greater than 0.5 hectares that represents the extent of mapped woodland.
 2. Non woodland – open areas greater than 0.5 hectares completely surrounded by woodland.
 
-<br>__IFT Woodland areas classification__
+
+
+<br>__Interpreted Forest Types (IFT) Woodland areas classification (>=20% tree canopy)__
 1. Conifer - Coniferous woodland often occurs as large plantations with trees in regular rows and the stand edges may be regular and sharply defined. Some broadleaved trees may also be present but greater than 80% of the area will consist of conifers.
 2. Broadleaved - The canopy of broadleaved woodland is generally more uneven than that of coniferous woodland being made up of rounded crowns but with variations according to species, age, height, and season. Boundaries with adjacent internal polygons are generally less clearly defined than with conifers and naturally occurring stands may grade into adjacent ones with no sharp division. Some coniferous trees may be present but greater than 80% of the area will consist of broadleaved trees. 
 3. Mixed Predominantly conifer - The interpretation of Mixed woodland can be very difficult as it exhibits intermediate characteristics between Conifer and Broadleaved woodland. There can be several types of mixed woodland. A plantation of alternate rows of conifer and broadleaves may produce a 'striped' appearance. You may see conifer and broadleaves planted in blocks, and there may be general intersperse woodland. The proportion of the Conifer will be more than 50% of the area and less than 80%. 
