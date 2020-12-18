@@ -60,15 +60,6 @@ We encourage feedback so please contact us via this form:
     <button>Feedback form</button>
 </a>
 
-<a (/form.md)>
-    <button>Feedback form</button>
-</a>
-
-[Feedback form](/form.md)
-
-[links](https://google.com) 
-[Woodland Representations](/docs/woodland-representations.md)
- 
 
 ## So, what are Correlation Relationships and why are they so useful?
 
