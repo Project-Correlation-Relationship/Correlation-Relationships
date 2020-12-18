@@ -29,6 +29,8 @@ Figure 2 shows a Land Registry boundary line (red) and an OSMM Topographic Area 
 
 Spatial relation based on overlap, excluding touching boundaries
 
+<img src="/_media/method1.PNG" width=50% height=50%>
+
 ![Overlap excluding touching boundaries](/_media/method1.PNG)
 
 ### Stage 1
