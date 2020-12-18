@@ -80,7 +80,7 @@ This is a spatial dataset that describes the geographic extent and location of a
 
 __Datasets:__ Woodland Inventory and Woodland Grants
 <br> __Linked IDs:__ OBJECTID
-<br> __Correlation Operator:__ XXX
+<br> __Correlation Operator:__ Spatial Analysis
 
 
 
@@ -100,7 +100,7 @@ __Datasets:__ Woodland Inventory and Woodland Grants
 
 __Datasets:__ Woodland Inventory and Ancient Woodland
 <br> __Linked IDs:__ XXX
-<br> __Correlation Operator:__ XXX
+<br> __Correlation Operator:__ Spatial Analysis
 
 
 ![Woodland Inventory and Ancient Woodland](/_media/Sampledata2.PNG)
@@ -115,7 +115,7 @@ __Datasets:__ Woodland Inventory and Ancient Woodland
 
 __Datasets:__ Woodland Grants and Ancient Woodland
 <br> __Linked IDs:__ XXX
-<br> __Correlation Operator:__ XXX
+<br> __Correlation Operator:__ Spatial Analysis
 
 ![Woodland Grants and Ancient Woodland](/_media/Sampledata3.PNG)
 
