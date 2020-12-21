@@ -43,7 +43,7 @@ The Office for National Statistics (ONS) has a useful
 </a>
     Downloads</summary>
 
-+ [Property Extents](www.google.com)
++ [Property Extents](https://www.google.com/)
 + Woodland Representations
     + Correlation 1
     + Correlation 2
