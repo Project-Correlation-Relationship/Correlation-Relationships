@@ -32,7 +32,7 @@ Spatial relation based on overlap, excluding touching boundaries
 ![Overlap excluding touching boundaries](/_media/method1.PNG)
 
 ### Stage 1
-![Stage 2](/_media/method2.PNG)
+![Stage 2](/_media/method2.PNG =250x)
 - Take into account the potential error in captured location.
 - Buffer all features OUT by this error quantity.
 - The intersection between these buffered LR and OS features is then tested.
@@ -40,6 +40,7 @@ Spatial relation based on overlap, excluding touching boundaries
 
 ### Stage 2
 ![Stage 2](/_media/method3.PNG)
+<img src="drawing.jpg" alt="Stage 2" style="width:250px;"/>
 - Ignore potential error in captured location.
 - Leave all features in their captured positions.
 - The intersection between these features is tested.
