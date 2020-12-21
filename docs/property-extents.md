@@ -40,7 +40,7 @@ Spatial relation based on overlap, excluding touching boundaries
 
 ### Stage 2
 ![Stage 2](/_media/method3.PNG)
-<img src="drawing.jpg" alt="Stage 2" style="width:250px;"/>
+<img src="/_media/method3.PNG" alt="Stage 2" style="width:250px;"/>
 - Ignore potential error in captured location.
 - Leave all features in their captured positions.
 - The intersection between these features is tested.
