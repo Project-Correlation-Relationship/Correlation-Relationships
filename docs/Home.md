@@ -37,11 +37,7 @@ The Office for National Statistics (ONS) has a useful
 [Guide to Experimental Statistics](https://www.ons.gov.uk/methodology/methodologytopicsandstatisticalconcepts/guidetoexperimentalstatistics).
 
 <details>
-<summary>
-<a
-    <button>Download correlations</button>
-
-   </summary>
+<summary><button>Download correlations</summary>
 
 + [Property Extents](https://www.google.com/)
 + [Woodland Representations](https://www.google.com/)
@@ -51,6 +47,24 @@ The Office for National Statistics (ONS) has a useful
 + [Property Address and Extent ](https://www.google.com/)
 </a>
 </details>
+
+
+<form action="/action_page.php">
+<label for="cars">Choose a car:</label>
+
+<select id="cars" name="cars">
+  <option value="volvo">Volvo XC90</option>
+  <option value="saab">Saab 95</option>
+  <option value="mercedes">Mercedes SLK</option>
+  <option value="audi">Audi TT</option>
+</select>
+<input type="submit" value="Submit">
+</form>
+
+<p>Choose a car, and click the "Submit" button to send input to the server.</p>
+
+</body>
+</html>
 
 ## How you can help
 
