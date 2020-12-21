@@ -53,7 +53,7 @@ The Office for National Statistics (ONS) has a useful
 <label for="correlations">Choose a Correlation:</label>
 
 <select id="correlations" name="correlations">
-  <option value="https://www.google.com">Volvo XC90</option>
+  <option value="www.google.com">Volvo XC90</option>
   <option value="saab">Saab 95</option>
   <option value="mercedes">Mercedes SLK</option>
   <option value="audi">Audi TT</option>
