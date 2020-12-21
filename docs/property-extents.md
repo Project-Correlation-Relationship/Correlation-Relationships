@@ -31,14 +31,14 @@ Spatial relation based on overlap, excluding touching boundaries
 
 ![Overlap excluding touching boundaries](/_media/method1.PNG)
 
-### Stage 1
+__Stage 1__
 ![Stage 2](/_media/method2.PNG =250x)
 - Take into account the potential error in captured location.
 - Buffer all features OUT by this error quantity.
 - The intersection between these buffered LR and OS features is then tested.
 - If the intersection is true, then a confidence metric of 3 is applied.
 
-### Stage 2
+__Stage 2__
 ![Stage 2](/_media/method3.PNG)
 <img src="/_media/method3.PNG" width="200">
 - Ignore potential error in captured location.
@@ -46,7 +46,7 @@ Spatial relation based on overlap, excluding touching boundaries
 - The intersection between these features is tested.
 - If the intersection is true, then a confidence metric of 2 is applied.
 
-## Stage 3
+__Stage 3__
 ![Stage3](/_media/method4.PNG)
 - Again, take into account the potential error in captured location.
 - Buffer all features IN by this error quantity.
