@@ -40,7 +40,7 @@ __Stage 1__
 
 __Stage 2__
 ![Stage 2](/_media/method3.PNG)
-<img src="/_media/method3.PNG" width=300 align=right>
+<img src="https://github.com/Project-Correlation-Relationship/Correlation-Relationships/blob/main/docs/_media/method2.PNG" width=300 align=right>
 - Ignore potential error in captured location.
 - Leave all features in their captured positions.
 - The intersection between these features is tested.
