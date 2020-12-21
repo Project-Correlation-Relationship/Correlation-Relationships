@@ -50,9 +50,9 @@ The Office for National Statistics (ONS) has a useful
 
 
 <form action="/action_page.php">
-<label for="cars">Choose a car:</label>
+<label for="correlations">Choose a Correlation:</label>
 
-<select id="cars" name="cars">
+<select id="correlations" name="correlations">
   <option value="volvo">Volvo XC90</option>
   <option value="saab">Saab 95</option>
   <option value="mercedes">Mercedes SLK</option>
