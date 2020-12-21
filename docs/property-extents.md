@@ -40,7 +40,7 @@ __Stage 1__
 
 __Stage 2__
 ![Stage 2](/_media/method3.PNG)
-<img src="/_media/method3.PNG" width="200">
+<img src="/_media/method3.PNG" width="100" height="100">
 - Ignore potential error in captured location.
 - Leave all features in their captured positions.
 - The intersection between these features is tested.
