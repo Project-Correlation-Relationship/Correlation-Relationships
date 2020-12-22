@@ -6,10 +6,24 @@ The datasets used to produce the correlation relationships are:
 - Woodland Grants
 - Ancient Woodland
 
+## Downloads
+<a href="http://www.google.com/">
+    <button>Download Woodland Inventory and Woodland Grants</button>
+</a>
+
+
+ <a href="http://www.google.com/">
+    <button>Download Woodland Inventory and Ancient Woodland</button>
+</a>
+
+
+ <a href="http://www.google.com/">
+    <button>Download Woodland Grants and Ancient Woodland</button>
+</a>
+
 ### Woodland Inventory
 
 The National Forest Inventory (NFI) woodland map covers all forest and woodland area over 0.5 hectare with a minimum of 20% canopy cover (or the potential to achieve it) and a minimum width of 20 metres, including areas of new planting, clearfell, windblow and restocked areas. The woodland map excludes all 'tarmac' roads, rivers and powerlines where the gap in the woodland is greater than 20 meters wide. 
-
 
 ### Woodland Grant
 
@@ -28,11 +42,7 @@ __Datasets:__ Woodland Inventory and Woodland Grants
 
 ![Woodland Inventory and Woodland Grants](/_media/Sampledata1.PNG) 
 
- <a href="http://www.google.com/">
-    <button>Download</button>
-</a>
-
-
+ 
 ## Correlation 2
 
 __Datasets:__ Woodland Inventory and Ancient Woodland
@@ -43,10 +53,6 @@ __Datasets:__ Woodland Inventory and Ancient Woodland
 ![Woodland Inventory and Ancient Woodland](/_media/Sampledata2.PNG)
 
 
- <a href="http://www.google.com/">
-    <button>Download</button>
-</a>
-
 ## Correlation 3
 
 __Datasets:__ Woodland Grants and Ancient Woodland
@@ -54,10 +60,4 @@ __Datasets:__ Woodland Grants and Ancient Woodland
 <br> __Correlation Operator:__ Spatial Analysis
 
 ![Woodland Grants and Ancient Woodland](/_media/Sampledata3.PNG)
-
-
- <a href="http://www.google.com/">
-    <button>Download</button>
-</a>
-
 
