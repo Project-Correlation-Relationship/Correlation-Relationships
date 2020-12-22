@@ -66,6 +66,19 @@ The Office for National Statistics (ONS) has a useful
 </body>
 </html>
 
+
+<form action="website.com" method="post" target="_blank" id="form_submit">
+   <input name="filename" type="hidden" value="File.zip"><br> 
+   <input name="filesize" type="hidden" value="43.5GB"><br> 
+   <input name="id" type="hidden" value="188.138.0.0">
+   <p></p>
+   <div align="center">
+      <a download="button-download.png" href="/path/to/image" title="ImageName" id="download_image">
+       <img alt="ImageName" src="/path/to/image">
+      </a>
+   </div>
+</form>
+
 ## How you can help
 
 We would be very grateful for any input or comments that you may have but specifically would welcome your thoughts on the following questions:
