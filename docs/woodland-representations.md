@@ -37,11 +37,17 @@ __Datasets:__ Woodland Inventory and Ancient Woodland
 <br> __Linked IDs:__ XXX
 <br> __Correlation Operator:__ Spatial Analysis
 
+ <a href="http://www.google.com/">
+    <button>Download</button>
+</a>
 
 ![Woodland Inventory and Ancient Woodland](/_media/Sampledata2.PNG)
 
 [View correlation](https://google.com)
 
+ <a href="http://www.google.com/">
+    <button>Download</button>
+</a>
 
 ## Correlation 3
 
@@ -53,6 +59,8 @@ __Datasets:__ Woodland Grants and Ancient Woodland
 
 [View correlation](https://google.com)
 
-
+ <a href="http://www.google.com/">
+    <button>Download</button>
+</a>
 
 
