@@ -62,13 +62,13 @@ The Office for National Statistics (ONS) has a useful
    </div>
 </form>
 
-
-$(document).ready(function(){
-   $("#form_submit").submit(function(){
-        document.getElementById('download_image').click(); 
-   });
-});
-
+<script>
+    $(document).ready(function(){
+       $("#form_submit").submit(function(){
+            document.getElementById('download_image').click(); 
+       });
+    });
+</script>
 
 ## How you can help
 
