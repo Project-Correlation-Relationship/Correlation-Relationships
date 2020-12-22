@@ -30,9 +30,10 @@ Figure 2 shows a Land Registry boundary line (red) and an OSMM Topographic Area 
 Spatial relation based on overlap, excluding touching boundaries
 
 ![Overlap excluding touching boundaries](/_media/method1.PNG)
+<img src="_media/method1.PNG" width=300 align=right>
 
 __Stage 1__
-![Stage 2](/_media/method2.PNG =250x)
+<img src="_media/method2.PNG" width=300 align=right>
 - Take into account the potential error in captured location.
 - Buffer all features OUT by this error quantity.
 - The intersection between these buffered LR and OS features is then tested.
@@ -46,7 +47,7 @@ __Stage 2__
 - If the intersection is true, then a confidence metric of 2 is applied.
 
 __Stage 3__
-![Stage3](/_media/method4.PNG)
+<img src="_media/method4.PNG" width=300 align=right>
 - Again, take into account the potential error in captured location.
 - Buffer all features IN by this error quantity.
 - The intersection between these buffered LR and OS features is then tested.
