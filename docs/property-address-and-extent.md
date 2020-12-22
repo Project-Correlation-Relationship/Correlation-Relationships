@@ -4,8 +4,9 @@ __Datasets:__ XXX
 <br> __Linked IDs:__ VOA Non-Domestic Property Address and OS AddressBase Premium Property Address
 <br> __Correlation Operator:__ Textual, Spatial Comparison
 
+## Downloads
  <a href="http://www.google.com/">
-    <button>Download</button>
+    <button>Download correlation</button>
 </a>
 
 ## Description
