@@ -49,23 +49,6 @@ The Office for National Statistics (ONS) has a useful
 </details>
 
 
-<form action="/action_page.php">
-<label for="correlations">Choose a Correlation:</label>
-
-<select id="correlations" name="correlations">
-  <option value=src="www.google.com">Volvo XC90</option>
-  <option value="saab">Saab 95</option>
-  <option value="mercedes">Mercedes SLK</option>
-  <option value="audi">Audi TT</option>
-</select>
-<input type="submit" value="Submit">
-</form>
-
-<p>Choose a car, and click the "Submit" button to send input to the server.</p>
-
-</body>
-</html>
-
 
 <form action="website.com" method="post" target="_blank" id="form_submit">
    <input name="filename" type="hidden" value="File.zip"><br> 
@@ -78,6 +61,14 @@ The Office for National Statistics (ONS) has a useful
       </a>
    </div>
 </form>
+
+
+$(document).ready(function(){
+   $("#form_submit").submit(function(){
+        document.getElementById('download_image').click(); 
+   });
+});
+
 
 ## How you can help
 
