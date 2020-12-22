@@ -4,6 +4,7 @@ __Datasets:__ MasterMap Topographic Area and HM Land Registry INSPIRE Polygon
 <br> __Linked IDs:__ TOID and INSPIRE-ID
 <br> __Correlation Operator:__ Spatial Overlap
 
+## Download
  <a href="http://www.google.com/">
     <button>Download</button>
 </a>
@@ -55,11 +56,9 @@ __Stage 3__
 This will ensure that overlaps which are within capture tolerance and hence may not be real, are given a lower confidence metric than intersections between the main bodies of features.
 
 ## Correlation Lookup Volume
-There are approximately 265 million OSMM topographic areas in England and Wales. There are approximately 23 million HM Land Registry INSPIRE polygons. Therefore, the correlation contains up to 5.9x10<sup>15</sup> relationships.
+There are approximately 108 million OSMM topographic areas in England and Wales. There are approximately 23 million HM Land Registry INSPIRE polygons. Therefore, the correlation contains up to 5.9x10<sup>15</sup> relationships.
 
- <a href="http://www.google.com/">
-    <button>Downlaod</button>
-</a>
+[Download the correlation](www.google.com)
 
 ## Practical Applications
 ### Utilities
