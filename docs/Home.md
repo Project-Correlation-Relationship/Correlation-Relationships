@@ -67,9 +67,12 @@ Select your favorite fruit:
 
 <button type="button" onclick="alert("hello world")";>hello</button>
 
-<button type="button" onclick="var x = document.getElementById('mySelect').selectedIndex; var y = document.getElementsByTagName('option')[x].value; var z= 'https://slack-files.com/'+y;
+<details>
+<summary>
+<button type="button" onclick="var x = document.getElementById('mySelect').selectedIndex; var y = document.getElementsByTagName('option')[x].value; var z= 'https:\/\/slack-files.com\/'+y;
 alert(z);window.open(z,'top')";>Try it</button>
 
+</summary>
 </body>
 </html>
 
