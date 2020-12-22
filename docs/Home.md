@@ -36,40 +36,6 @@ Note that there is no guarantee as yet on whether participating partner bodies w
 The Office for National Statistics (ONS) has a useful 
 [Guide to Experimental Statistics](https://www.ons.gov.uk/methodology/methodologytopicsandstatisticalconcepts/guidetoexperimentalstatistics).
 
-<details>
-<summary>
-<button type="button" onclick="alert("hello world")";>hello</button></summary>
-
-+ [Property Extents](https://www.google.com/)
-+ [Woodland Representations](https://www.google.com/)
-    + [Woodland Inventory and Woodland Grants](https://www.google.com/)
-    + [Woodland Inventory and Ancient Woodland](https://www.google.com/)
-    + [Woodland Grants and Ancient Woodland](https://www.google.com/)
-+ [Property Address and Extent ](https://www.google.com/)
-</a>
-</details>
-
-
-<button name="button" onclick="http://www.google.com">Click me</button>
-
-<html>
-<body>
-
-<details>
-Select your favorite fruit:
-<select id="mySelect">
-  <option value="T013187BW7Q-F01HRFXP01F-3fd9c3364e">Apple</option>
-  <option value="T013187BW7Q-F01GYGE2Y23-01421e60d7">Orange</option>
-  <option value="T013187BW7Q-F01GYGE2Y23-01421e60d7">Pineapple</option>
-</select>
-
-<button type="button" onclick="var x = document.getElementById('mySelect').selectedIndex; var y = document.getElementsByTagName('option')[x].value; var z= 'https:\/\/slack-files.com\/'+y;
-alert(z);window.open(z,'top')";>Try it</button>
-
-</details>
-</body>
-</html>
-
 ## How you can help
 
 We would be very grateful for any input or comments that you may have but specifically would welcome your thoughts on the following questions:
