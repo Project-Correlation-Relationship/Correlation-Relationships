@@ -28,7 +28,9 @@ __Datasets:__ Woodland Inventory and Woodland Grants
 
 ![Woodland Inventory and Woodland Grants](/_media/Sampledata1.PNG) 
 
-[View correlation](https://google.com)
+ <a href="http://www.google.com/">
+    <button>Download</button>
+</a>
 
 
 ## Correlation 2
@@ -43,7 +45,6 @@ __Datasets:__ Woodland Inventory and Ancient Woodland
 
 ![Woodland Inventory and Ancient Woodland](/_media/Sampledata2.PNG)
 
-[View correlation](https://google.com)
 
  <a href="http://www.google.com/">
     <button>Download</button>
@@ -57,7 +58,6 @@ __Datasets:__ Woodland Grants and Ancient Woodland
 
 ![Woodland Grants and Ancient Woodland](/_media/Sampledata3.PNG)
 
-[View correlation](https://google.com)
 
  <a href="http://www.google.com/">
     <button>Download</button>
