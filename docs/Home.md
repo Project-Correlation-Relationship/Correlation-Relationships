@@ -52,8 +52,11 @@ The Office for National Statistics (ONS) has a useful
 <html>
 <body>
 
- 
 
+
+<details>
+<summary>
+    
 Select your favorite fruit:
 <select id="mySelect">
   <option value="T013187BW7Q-F01HRFXP01F-3fd9c3364e">Apple</option>
@@ -61,14 +64,6 @@ Select your favorite fruit:
   <option value="T013187BW7Q-F01GYGE2Y23-01421e60d7">Pineapple</option>
 </select>
 
- 
-
-<p>Click the button to return the value of the selected fruit.</p>
-
-<button type="button" onclick="alert("hello world")";>hello</button>
-
-<details>
-<summary>
 <button type="button" onclick="var x = document.getElementById('mySelect').selectedIndex; var y = document.getElementsByTagName('option')[x].value; var z= 'https:\/\/slack-files.com\/'+y;
 alert(z);window.open(z,'top')";>Try it</button>
 
