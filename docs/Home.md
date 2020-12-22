@@ -49,13 +49,13 @@ The Office for National Statistics (ONS) has a useful
 </a>
 </details>
 
+
+<button name="button" onclick="http://www.google.com">Click me</button>
+
 <html>
 <body>
 
-
-
 <details>
-   
 Select your favorite fruit:
 <select id="mySelect">
   <option value="T013187BW7Q-F01HRFXP01F-3fd9c3364e">Apple</option>
