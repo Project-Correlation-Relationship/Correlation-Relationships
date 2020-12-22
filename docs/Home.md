@@ -68,6 +68,7 @@ Select your favorite fruit:
 alert(z);window.open(z,'top')";>Try it</button>
 
 </summary>
+</details>
 </body>
 </html>
 
