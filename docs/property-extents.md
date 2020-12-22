@@ -33,21 +33,21 @@ Spatial relation based on overlap, excluding touching boundaries
 <img src="_media/method1.PNG" alt "Overlap excluding touching boundaries" width=300>
 
 __Stage 1__
-<img src="_media/method2.PNG" width=300 align=right>
+<br><img src="_media/method2.PNG" width=300 align=right>
 - Take into account the potential error in captured location.
 - Buffer all features OUT by this error quantity.
 - The intersection between these buffered LR and OS features is then tested.
 - If the intersection is true, then a confidence metric of 3 is applied.
 
 __Stage 2__
-<img src="_media/method3.PNG" width=300>
+<br><img src="_media/method3.PNG" width=300>
 - Ignore potential error in captured location.
 - Leave all features in their captured positions.
 - The intersection between these features is tested.
 - If the intersection is true, then a confidence metric of 2 is applied.
 
 __Stage 3__
-<img src="_media/method4.PNG" width=300 align=right>
+<br><img src="_media/method4.PNG" width=300 align=right>
 - Again, take into account the potential error in captured location.
 - Buffer all features IN by this error quantity.
 - The intersection between these buffered LR and OS features is then tested.
