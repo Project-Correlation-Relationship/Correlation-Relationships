@@ -48,27 +48,29 @@ The Office for National Statistics (ONS) has a useful
 </a>
 </details>
 
+<html>
+<body>
 
+ 
 
-<form action="website.com" method="post" target="_blank" id="form_submit">
-   <input name="filename" type="hidden" value="File.zip"><br> 
-   <input name="filesize" type="hidden" value="43.5GB"><br> 
-   <input name="id" type="hidden" value="188.138.0.0">
-   <p></p>
-   <div align="center">
-      <a download="button-download.png" href="/path/to/image" title="ImageName" id="download_image">
-       <img alt="ImageName" src="/path/to/image">
-      </a>
-   </div>
-</form>
+Select your favorite fruit:
+<select id="mySelect">
+  <option value="T013187BW7Q-F01HRFXP01F-3fd9c3364e">Apple</option>
+  <option value="T013187BW7Q-F01GYGE2Y23-01421e60d7">Orange</option>
+  <option value="T013187BW7Q-F01GYGE2Y23-01421e60d7">Pineapple</option>
+</select>
 
-<script>
-    $(document).ready(function(){
-       $("#form_submit").submit(function(){
-            document.getElementById('download_image').click(); 
-       });
-    });
-</script>
+ 
+
+<p>Click the button to return the value of the selected fruit.</p>
+
+ 
+
+<button type="button" onclick="var x = document.getElementById('mySelect').selectedIndex; var y = document.getElementsByTagName('option')[x].value; var z= 'https://slack-files.com/'+y;
+alert(z);window.open(z,'top')";>Try it</button>
+
+</body>
+</html>
 
 ## How you can help
 
