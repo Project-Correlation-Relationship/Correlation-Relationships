@@ -4,7 +4,7 @@ __Datasets:__ MasterMap Topographic Area and HM Land Registry INSPIRE Polygon
 <br> __Linked IDs:__ TOID and INSPIRE-ID
 <br> __Correlation Operator:__ Spatial Overlap
 
-## Download
+## Downloads
  <a href="http://www.google.com/">
     <button>Download correlation</button>
 </a>
