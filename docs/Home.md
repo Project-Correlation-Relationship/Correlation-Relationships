@@ -55,8 +55,7 @@ The Office for National Statistics (ONS) has a useful
 
 
 <details>
-<summary>
-    
+   
 Select your favorite fruit:
 <select id="mySelect">
   <option value="T013187BW7Q-F01HRFXP01F-3fd9c3364e">Apple</option>
@@ -67,7 +66,6 @@ Select your favorite fruit:
 <button type="button" onclick="var x = document.getElementById('mySelect').selectedIndex; var y = document.getElementsByTagName('option')[x].value; var z= 'https:\/\/slack-files.com\/'+y;
 alert(z);window.open(z,'top')";>Try it</button>
 
-</summary>
 </details>
 </body>
 </html>
