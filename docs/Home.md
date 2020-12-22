@@ -36,13 +36,19 @@ Note that there is no guarantee as yet on whether participating partner bodies w
 The Office for National Statistics (ONS) has a useful 
 [Guide to Experimental Statistics](https://www.ons.gov.uk/methodology/methodologytopicsandstatisticalconcepts/guidetoexperimentalstatistics).
 
-Select your favorite fruit:
+England:
 <select id="mySelect">
   <option value="T013187BW7Q-F01HRFXP01F-3fd9c3364e">Apple</option>
   <option value="T013187BW7Q-F01GYGE2Y23-01421e60d7">Orange</option>
   <option value="T013187BW7Q-F01GYGE2Y23-01421e60d7">Pineapple</option>
 </select>
-<button name="button" onclick="var x = document.getElementById('mySelect').selectedIndex; var y = document.getElementsByTagName('option')[x].value; var z= 'https:\/\/slack-files.com\/'+y; alert(z);window.open(z,'top')">Try it</button>
+Wales:
+<select id="mySelect">
+  <option value="T013187BW7Q-F01HRFXP01F-3fd9c3364e">Apple</option>
+  <option value="T013187BW7Q-F01GYGE2Y23-01421e60d7">Orange</option>
+  <option value="T013187BW7Q-F01GYGE2Y23-01421e60d7">Pineapple</option>
+</select>
+<button name="button" onclick="var x = document.getElementById('mySelect').selectedIndex; var y = document.getElementsByTagName('option')[x].value; var z= 'https:\/\/slack-files.com\/'+y; alert(z);window.open(z,'top')">Download</button>
 
 ## How you can help
 
