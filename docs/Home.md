@@ -42,7 +42,7 @@ Select your favorite fruit:
   <option value="T013187BW7Q-F01GYGE2Y23-01421e60d7">Orange</option>
   <option value="T013187BW7Q-F01GYGE2Y23-01421e60d7">Pineapple</option>
 </select>
-<button type="button" onclick="var x = document.getElementById('mySelect').selectedIndex; var y = document.getElementsByTagName('option')[x].value; var z= 'https:\/\/slack-files.com\/'+y; alert(z);window.open(z,'top')";>Try it</button>
+<button name="button" onclick="var x = document.getElementById('mySelect').selectedIndex; var y = document.getElementsByTagName('option')[x].value; var z= 'https:\/\/slack-files.com\/'+y; alert(z);window.open(z,'top')";>Try it</button>
 
 ## How you can help
 
