@@ -36,6 +36,12 @@ Note that there is no guarantee as yet on whether participating partner bodies w
 The Office for National Statistics (ONS) has a useful 
 [Guide to Experimental Statistics](https://www.ons.gov.uk/methodology/methodologytopicsandstatisticalconcepts/guidetoexperimentalstatistics).
 
+Select your favorite fruit:
+<select id="mySelect">
+  <option value="T013187BW7Q-F01HRFXP01F-3fd9c3364e">Apple</option>
+  <option value="T013187BW7Q-F01GYGE2Y23-01421e60d7">Orange</option>
+  <option value="T013187BW7Q-F01GYGE2Y23-01421e60d7">Pineapple</option>
+</select>
 <button name="button" onclick="window.open('http://www.google.com')">Click me</button>
 
 ## How you can help
