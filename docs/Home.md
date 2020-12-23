@@ -69,7 +69,7 @@ Please complete our survey
 
 We encourage feedback so please contact us via this form:
 
-<a href="../form.md">
+<a href="form.md">
   <button>Feedback form</button>
 </a>
 
