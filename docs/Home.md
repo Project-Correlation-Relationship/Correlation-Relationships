@@ -69,11 +69,11 @@ Please complete our survey
 
 We encourage feedback so please contact us via this form:
 
-<a href="/form.md">
+<a href="../form.md">
   <button>Feedback form</button>
 </a>
 
-[Feedback form](/form.md)
+[Feedback form](../form.md)
 
 ## So, what are Correlation Relationships and why are they so useful?
 
