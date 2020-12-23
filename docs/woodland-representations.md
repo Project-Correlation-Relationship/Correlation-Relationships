@@ -6,16 +6,16 @@ The datasets used to produce the correlation relationships are:
 - Woodland Grants
 - Ancient Woodland
 
-## Downloads
-<a href="http://www.google.com/">
+## Download Correlations
+<a href="https://www.google.com/">
     <button>Download Woodland Inventory and Woodland Grants</button>
 </a>
 <br>
- <br><a href="http://www.google.com/">
+ <br><a href="https://www.google.com/">
     <button>Download Woodland Inventory and Ancient Woodland</button>
 </a>
 <br>
- <br><a href="http://www.google.com/">
+ <br><a href="https://www.google.com/">
     <button>Download Woodland Grants and Ancient Woodland</button>
 </a>
 
@@ -40,7 +40,8 @@ __Datasets:__ Woodland Inventory and Woodland Grants
 
 ![Woodland Inventory and Woodland Grants](/_media/Sampledata1.PNG) 
 
- 
+[Download Correlation](https://www.google.com)
+
 ## Correlation 2
 
 __Datasets:__ Woodland Inventory and Ancient Woodland
@@ -50,6 +51,7 @@ __Datasets:__ Woodland Inventory and Ancient Woodland
 
 ![Woodland Inventory and Ancient Woodland](/_media/Sampledata2.PNG)
 
+[Download Correlation](https://www.google.com)
 
 ## Correlation 3
 
@@ -59,3 +61,4 @@ __Datasets:__ Woodland Grants and Ancient Woodland
 
 ![Woodland Grants and Ancient Woodland](/_media/Sampledata3.PNG)
 
+[Download Correlation](https://www.google.com)
